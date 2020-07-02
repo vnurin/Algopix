@@ -1,4 +1,4 @@
-I am not offering any license for this project, so according copyright lows nobody else can alter, modify or distribute this project without my permission without being at risk of litigation.
+I am not offering any license for this project, so according copyright lows without my permission nobody else can alter, modify, distribute or reuse any part of this project without being at risk of litigation.
 Contact info: Vahagn Nurijanyan, vnurin@gmail.com.
 
 This command line program is for converting from / to any (true-colour, indexed-colour, grayscale) bitmap file of BMP format to atchive either row-by-row or whole image compression / decompression. 
